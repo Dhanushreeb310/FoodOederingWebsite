@@ -1,10 +1,15 @@
-# Food Delight
+*CraveCart*
 
-Food Delight is a web-based platform that allows customers to order food from restaurant. Customers can also
-browse menus, view photos of dishes. Functionality of this project is to provide a Login and SignUp authentication, Add to
-Cart, Cart Check Out, My Orders Page, Search foods etc.
+Crave Cart is a modern food ordering website built using the MERN (MongoDB, Express.js, React, Node.js) stack. It provides users with a seamless experience for browsing menus, selecting dishes, placing orders, and tracking delivery status.
 
-## Technical Stack : ReactJS, NodeJS, ExpressJS, MongoDB, Rest API's, MERN Stack.
+Features
+User Authentication: Secure user registration and login with JWT-based authentication.
+Browse Menus: Explore a variety of cuisines and dishes with detailed descriptions and pricing.
+Order Management: Easy and intuitive interface for placing and managing orders.
+Real-Time Notifications: Stay updated with real-time order status notifications.
+Admin Dashboard: Powerful admin panel for managing restaurants, menus, orders, and users.
+
+Technical Stack : ReactJS, NodeJS, ExpressJS, MongoDB, Rest API's, MERN Stack.
 
 
 
